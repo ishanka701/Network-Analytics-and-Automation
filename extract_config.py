@@ -1,7 +1,5 @@
 """
 Task 01 - Network Configuration Data Extraction
--------------------------------------------------
-
 """
 
 import re
