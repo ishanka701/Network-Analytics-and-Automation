@@ -3,9 +3,9 @@
 ## Contents
 - `router_a.txt` - Sample Cisco configuration (provided in assignment, Page 4)
 - `router_b.txt` - Sample Huawei configuration (provided in assignment, Page 5)
-- `extract_config.py` - Task 01 script: reads the configs, detects vendor, extracts interface data, writes `output.xlsx`
+- `Task 01.py` - Task 01 script: reads the configs, detects vendor, extracts interface data, writes `output.xlsx`
 - `output.xlsx` - Task 01 generated output
-- `task02_prompt.md` - Task 02: prompt engineering deliverable
+- `Task 02.md` - Task 02: prompt engineering deliverable
 
 ## How to run Task 01
 
