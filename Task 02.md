@@ -1,4 +1,4 @@
-# Task 02 — ISP Network Troubleshooting AI Agent Prompt
+# Task 02 - ISP Network Troubleshooting AI Agent Prompt
 
 ```
 # ROLE
